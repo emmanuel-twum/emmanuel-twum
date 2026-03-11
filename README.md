@@ -1,4 +1,4 @@
-# Hi, I'm Kobby 👋
+# Hi, I'm Emmanuel 👋
   
 🛡️ Interested in Ethical Hacking, Vulnerability Assessment, and Python Automation  
 
